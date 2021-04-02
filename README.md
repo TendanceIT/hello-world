@@ -1,4 +1,3 @@
 # hello-world
-Salut les humains!  
-Hubot ici, j'aime Node.js et Cofffeescript (c'est de ça que je suis fait!).  
-J'ai eu des tacos sur la lune et je les trouve bien supérieurs aux tacos de la Terre.
+Bonjour mes cher(e)s  
+Vis ta vie comme tu l'entends, tu chercheras un jour ceux pour lesquels tu as vécu, sans les retrouver.
